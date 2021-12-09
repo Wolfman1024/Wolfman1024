@@ -1,0 +1,55 @@
+## Afflictions
+Afflictions can be mental, or physical. They are based on the act of Resisting, or Embracing respectively, and will affect the game mechanically or narratively.
+
+Afflictions are not limited to the below effects. The DM can come up with more appropriate afflictions to match the player or the development of the game. 
+
+PCs cannot have more than one Minor Affliction at a time. When they reach the point to gain a second minor affliction, they instead gain a Major Affliction. There is no limit to 
+how many Major Afflictions a PC can have.
+
+### Afflictions Saves
+Afflictions will sometimes require a player to make an “Affliction Save”. Players roll a d20. The DC of the roll is equal to the total points players have in their Resistance 
+and Embrace totals (between 0 and 18). The result of the roll does not affect their Corruption levels. If a player has a Minor affliction, the minimum DC is raised to 10 (i.e. 
+between 10 and 18) and if the player has one or more Major Afflictions, the roll is at a disadvantage.
+
+Minor afflictions are generally narrative, or with only a small mechanical change. These are effectively a change to the way the Character is played. Minor afflictions are not 
+designed to affect how the game is played. Major afflictions on the other hand, do generally have a mechanical change. Again, however, this does not have a major impact, only a 
+small, or temporary mechanical effect.
+
+Laura must make an Affliction Save. He has 5 points in Resist and 7 points in Embrace, which means that she must roll a 12 or higher to succeed. If she fails, she will suffer 
+the consequence of her Affliction.
+
+Dave has 2 points in Resist, and 5 points in Embrace, bringing his total to 7. However, he has a Minor and 2 Major Afflictions, meaning he must roll a minimum of 10, at 
+disadvantage to pass.
+
+### Afflictions caused by Resisting the Corruption
+
+Minor Afflictions Examples
+- Phobia (does not follow Fear rules in the PHB/DMG) - An aspect or creature within the dungeon has an effect on the PC, causing them to react extremely when exposed to it. When exposed, players must make an Affliction Save. If they fail, they are unable to act for their turn (they can still move and react). This is only triggered once per interaction. If they succeed, they can act normally.
+- Obsession/Compulsion - the player must choose a behaviour as a “coping mechanism”, e.g. compulsively cleaning a weapon or object, or must always have it in their hand. If they are ever forced to let go or drop the item, they must make an Affliction Save. If they fail, they are unable to act for their turn, instead spending their action(s) retrieving the item. If they succeed, they can act normally.
+- Paranoia - When the player rolls a Perception check, the DM flips a coin to decide if the roll is normal, or inverted. Heads - the roll is normal; Tails - inverted. If the roll is inverted, the player must instead roll under the DC, and all contributing modifiers are also inverted (e.g. +2 becomes -2; the original DC of 15 becomes 5). Only the DM knows if the roll has been inverted or not; the player only knows that this effect can occur. If they fail, the PC always believes they succeeded, but heard or saw something entirely different. E.g. A flickering shadow instead is a creature skittering back into the darkness, or the chittering of rats is instead the sound of creatures in the darkness, ready to strike.
+
+Major Afflictions Examples
+- An escalated Minor Affliction - This cannot be healed or removed.
+- Phobia - the player must move 10ft directly away from the source. If the source comes within 10ft of the PC, they must make an Affliction Save with disadvantage, or be Frightened until the beginning of their next turn.
+- Obsession/Compulsion - This does not grant the opportunity for an Affliction Save.
+- Paranoia - modifiers (and DC?) are no longer inverted when making an inverted Perception check.
+- Visions and Voices - You see and hear things that aren’t there… or are they? At the DM’s discretion, you may make an Affliction Save. If you fail, you are incpacitated for one round, as you experience strange visions and whispers that cloud your mind. If you succeed, you are able to make sense of it - revealing a potential clue about the dungeon.
+- Delusions - At the DM’s discretion, make an Affliction Save. If you fail, you believe that you are suffering from an unsavoury effect or condition (the Player or the DM can choose), and are Incapacitated for one round. If you succeed, you believe that you are immune to a particular effect, or are perfectly capable of carrying out a particular task or skill. 
+
+### Afflictions caused by Embracing the Corruption
+
+Minor Afflictions Examples
+- Infection - wounds don’t heal properly, causing inflammation and pain, and emit a horrible smell. Creatures have advantage on perception checks involving smell to detect the character.
+- Nausea/Vomiting - the smells and sights in the dungeon are having an impact on the PCs stomach. Pick an item, act or sensory effect (aligned with holy practices or items, e.g. incense or prayers) and whenever they are exposed to it, they must make an Affliction Save. If they fail, they vomit and are Incapacitated for one round. This only occurs once per interaction.
+- Foul senses - Pick a sensory effect (e.g. bright lights, the taste of food, the sound of gravel under their shoes, the feeling of unclean fingernails, the smell of a hearthfire). This effect no longer pleases them, or brings them comfort or nourishment to the point of aggravation (depending on their exposure to it). While under this effect, all Wis throws are at -1 (maybe -2?).
+
+Major Afflictions Examples
+- An escalated Minor Affliction - This cannot be healed or removed.
+- Infection - creatures can now track you as you move, and don’t need a perception check.
+- Nausea/Vomiting - any behaviour involving prayer or holy rituals; acts, smells, signs, cause you to become Incapacitated for one round while you overcome the sickness they cause in you. Instead, you are driven to defile such iconography. This does not allow for an Affliction Save.
+- Foul senses - your chosen sensory effect has completely inverted. E.g. you can see normally in darkness (acts like darkvision) but any bright lights nearby restrict your vision; you can no longer eat normal food, instead having to rely on bloody or rotten leftovers; or otherwise innocent smells and sounds inflict disadvantage on perception checks while exposed.
+- Malignancy - your body has transformed physically; your skin is flaking and stinks, or your bones have warped and grown, creating protrusions. These are hard to disguise, and create a distrust in those you interact with. This can be taken up to three times
+  - Level 1 - children and mundane creatures hide from you, and older people are uneasy. You will need to hide your malignancy in order to be able to interact with them properly.
+  - Level 2 - your malignancy has become more obvious. People are short and seem to want to be done with you as quickly as possible. 
+  - Level 3 - Your malignancy has become visible and can no longer be hidden. People actively ask you to leave, and may use force in order to get you to leave.
+- Twisted Intentions - you start to feel that you understand the ways of the creatures that creep and crawl through the dungeons. The PC develops a dark behavior; bloodlust, hatred towards a group or person, an obsession with collecting trophies, or simply begins to act in a cruel dark hearted manner.
